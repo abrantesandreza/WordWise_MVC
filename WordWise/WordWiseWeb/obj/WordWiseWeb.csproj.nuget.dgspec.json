@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\Desktop\\WordWise_MVC\\WordWise\\WordWiseWeb\\WordWiseWeb.csproj": {}
+    "C:\\Users\\SMN\\Desktop\\WordWise_MVC\\WordWise\\WordWiseWeb\\WordWiseWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\Desktop\\WordWise_MVC\\WordWise\\WordWiseWeb\\WordWiseWeb.csproj": {
+    "C:\\Users\\SMN\\Desktop\\WordWise_MVC\\WordWise\\WordWiseWeb\\WordWiseWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\Desktop\\WordWise_MVC\\WordWise\\WordWiseWeb\\WordWiseWeb.csproj",
+        "projectUniqueName": "C:\\Users\\SMN\\Desktop\\WordWise_MVC\\WordWise\\WordWiseWeb\\WordWiseWeb.csproj",
         "projectName": "WordWiseWeb",
-        "projectPath": "C:\\Users\\andre\\Desktop\\WordWise_MVC\\WordWise\\WordWiseWeb\\WordWiseWeb.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\Desktop\\WordWise_MVC\\WordWise\\WordWiseWeb\\obj\\",
+        "projectPath": "C:\\Users\\SMN\\Desktop\\WordWise_MVC\\WordWise\\WordWiseWeb\\WordWiseWeb.csproj",
+        "packagesPath": "C:\\Users\\SMN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SMN\\Desktop\\WordWise_MVC\\WordWise\\WordWiseWeb\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SMN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -74,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
