@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using WordWiseWeb.Models;
 
 namespace WordWiseWeb.Data
 {
@@ -8,5 +9,7 @@ namespace WordWiseWeb.Data
         {
             
         }
+
+        public DbSet<Category> Categories { get; set; }
     }
 }
